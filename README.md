@@ -1,6 +1,6 @@
-## End to End Machine Learning Project:Student Performance: Efthimios Vlahos
+# End to End Machine Learning Project:Student Performance: Efthimios Vlahos
 
-### Introduction About the Data :
+## Introduction About the Data :
 
 #### The dataset ####
 
@@ -11,10 +11,10 @@ There are 6 independent variables:
 * 'parental_level_of_education' : parents' final education ->(bachelor's degree,some college,master's degree,associate's degree,high school)
 * 'lunch' : having lunch before test (standard or free/reduced)
 * 'test_preparation_course' : complete or not complete before test
-* 'writing score'
+* 'writing score': score on written exams
 
 Target variable:
-* math score
+* 'math score': score on math exams
 
 Dataset Source Link :
 [https://www.kaggle.com/competitions/playground-series-s3e8/data?select=train.csv](https://www.kaggle.com/datasets/spscientist/students-performance-in-exams?datasetId=74977)
