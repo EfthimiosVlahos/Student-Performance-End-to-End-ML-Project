@@ -4,15 +4,14 @@
 
 **The dataset** The goal is to predict math scores of students
 
-There are 6 independent variables (including `id`):
+There are 6 independent variables:
 
-* gender : sex of students -> (Male/female)
-* race/ethnicity : ethnicity of students -> (Group A, B,C, D,E)
-* parental level of education : parents' final education ->(bachelor's degree,some college,master's degree,associate's degree,high school)
-* lunch : having lunch before test (standard or free/reduced)
-* test preparation course : complete or not complete before test
-* math score
-* writing score
+* 'gender' : sex of students -> (Male/female)
+* 'race_ethnicity' : ethnicity of students -> (Group A, B,C, D,E)
+* 'parental_level_of_education' : parents' final education ->(bachelor's degree,some college,master's degree,associate's degree,high school)
+* 'lunch' : having lunch before test (standard or free/reduced)
+* 'test_preparation_course' : complete or not complete before test
+* 'writing score'
 
 Target variable:
 * math score
