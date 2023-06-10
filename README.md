@@ -49,9 +49,13 @@ Link : [EDA Notebook](https://github.com/EfthimiosVlahos/Student-Performance-End
 
 ## Sneak Peak:
 
-(<img width="1034" alt="Screenshot 2023-06-10 at 11 11 47 AM" src="https://github.com/EfthimiosVlahos/Student-Performance-End-to-End-ML-Project/assets/56899588/72a8f14d-0019-4441-9f38-fa4f0672abe3">)
-(<img width="1034" alt="Screenshot 2023-06-10 at 11 12 12 AM" src="https://github.com/EfthimiosVlahos/Student-Performance-End-to-End-ML-Project/assets/56899588/10b8b0e1-2e97-4d0e-8e09-5a56548292fa">)
-(<img width="1040" alt="Screenshot 2023-06-10 at 11 12 33 AM" src="https://github.com/EfthimiosVlahos/Student-Performance-End-to-End-ML-Project/assets/56899588/6c30754e-2330-4a59-b29e-6fc1463ddf1b">)
+<img width="1034" alt="Screenshot 2023-06-10 at 11 11 47 AM" src="https://github.com/EfthimiosVlahos/Student-Performance-End-to-End-ML-Project/assets/56899588/72a8f14d-0019-4441-9f38-fa4f0672abe3">
+<img width="1034" alt="Screenshot 2023-06-10 at 11 12 12 AM" src="https://github.com/EfthimiosVlahos/Student-Performance-End-to-End-ML-Project/assets/56899588/10b8b0e1-2e97-4d0e-8e09-5a56548292fa">
+<img width="1040" alt="Screenshot 2023-06-10 at 11 12 33 AM" src="https://github.com/EfthimiosVlahos/Student-Performance-End-to-End-ML-Project/assets/56899588/6c30754e-2330-4a59-b29e-6fc1463ddf1b">
+<img width="1040" alt="Screenshot 2023-06-10 at 11 13 48 AM" src="https://github.com/EfthimiosVlahos/Student-Performance-End-to-End-ML-Project/assets/56899588/ca337012-7efb-4400-8f9d-6639d4b4bf25">
+<img width="625" alt="Screenshot 2023-06-10 at 11 14 15 AM" src="https://github.com/EfthimiosVlahos/Student-Performance-End-to-End-ML-Project/assets/56899588/b014de73-42ac-406b-8efd-0c4933d27d3a">
+
+
 
 
 
@@ -59,3 +63,10 @@ Link : [EDA Notebook](https://github.com/EfthimiosVlahos/Student-Performance-End
 # Model Training Approach Notebook
 
 Link : [Model Training Notebook](https://github.com/EfthimiosVlahos/Student-Performance-End-to-End-ML-Project/blob/main/notebook/2.%20MODEL%20TRAINING.ipynb)
+
+## Results
+
+<img width="536" alt="Screenshot 2023-06-10 at 11 30 05 AM" src="https://github.com/EfthimiosVlahos/Student-Performance-End-to-End-ML-Project/assets/56899588/b226653b-8215-425a-a87a-1882dc353193">
+
+
+
