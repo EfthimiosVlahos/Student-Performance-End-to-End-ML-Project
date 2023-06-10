@@ -50,6 +50,10 @@ Link : [EDA Notebook](https://github.com/EfthimiosVlahos/Student-Performance-End
 ## Sneak Peak:
 
 (<img width="1034" alt="Screenshot 2023-06-10 at 11 11 47 AM" src="https://github.com/EfthimiosVlahos/Student-Performance-End-to-End-ML-Project/assets/56899588/72a8f14d-0019-4441-9f38-fa4f0672abe3">)
+(<img width="1034" alt="Screenshot 2023-06-10 at 11 12 12 AM" src="https://github.com/EfthimiosVlahos/Student-Performance-End-to-End-ML-Project/assets/56899588/10b8b0e1-2e97-4d0e-8e09-5a56548292fa">)
+(<img width="1040" alt="Screenshot 2023-06-10 at 11 12 33 AM" src="https://github.com/EfthimiosVlahos/Student-Performance-End-to-End-ML-Project/assets/56899588/6c30754e-2330-4a59-b29e-6fc1463ddf1b">)
+
+
 
 
 # Model Training Approach Notebook
