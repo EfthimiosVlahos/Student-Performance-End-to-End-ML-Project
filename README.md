@@ -2,7 +2,7 @@
 
 ### Introduction About the Data :
 
-**The dataset** The goal is to predict math scores of students
+#### The dataset ####
 
 There are 6 independent variables:
 
