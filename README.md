@@ -18,7 +18,7 @@ Target variable:
 * math score
 
 Dataset Source Link :
-[https://www.kaggle.com/competitions/playground-series-s3e8/data?select=train.csv](https://www.kaggle.com/competitions/playground-series-s3e8/data?select=train.csv)
+[https://www.kaggle.com/competitions/playground-series-s3e8/data?select=train.csv](https://www.kaggle.com/datasets/spscientist/students-performance-in-exams?datasetId=74977)
 
 # Approach for the project 
 
