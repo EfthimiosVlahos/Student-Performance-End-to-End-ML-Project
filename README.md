@@ -25,13 +25,13 @@ Dataset Source Link :
     * Imported and prepared data from various sources to be used for project, ensuring that it is in a format suitable for analysis and modeling.
 
 2. Data Transformation : 
-    * In this phase a ColumnTransformer Pipeline was created.
+    * ColumnTransformer Pipeline was created.
     * For Numeric Variables first SimpleImputer is applied with strategy median , then Standard Scaling is performed on numeric data.
     * For Categorical Variables SimpleImputer is applied with most frequent strategy, then ordinal encoding performed , after this data is scaled with Standard Scaler.
-    * This preprocessor is saved as pickle file.
+    * Preprocessor is saved as pickle file.
 
 3. Model Training : 
-    * In this phase base varios models are tested . The model that performed the best, with respect to R^2 score, was the Ridge regressor.
+    * Various models are tested . The model that performed the best on the test set, with respect to R^2 score, was the Ridge regressor.
  
 4. Flask App creation : 
     * Created Prediction pipeline using Flask Web App to predict math scores.
