@@ -43,7 +43,7 @@ This project understands how the student's performance (test scores) is affected
 
 7. Deployment of ML application in Azure cloud Using github Actions : 
 ### Models
-As we are predicting a countinous output,tested a variety of models, namely:
+As we are predicting a countinous output, tested a variety of models, namely:
 
 * Linear Regression
 * Ridge Regression
@@ -418,7 +418,7 @@ Here we see which models performed best with respect to three metrics on the tes
 
 ## Conclusion
 
-Based upon these, the chosen the model is the classic Linear Regression as it was the most consistently performant on the test set across classication RMSE, MAE, and R^2 metrics.
+Based upon these, the chosen the model is the classic Linear Regression as it was the most consistently performant on the test set across RMSE, MAE, and R^2 metrics.
 
 
 
