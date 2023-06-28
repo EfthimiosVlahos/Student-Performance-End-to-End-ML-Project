@@ -37,12 +37,12 @@ This project understands how the student's performance (test scores) is affected
 4. Flask App creation : 
     * Created Prediction pipeline using Flask Web App to predict math scores.
   
-## In Progress:
+**In Progress:**
 
 6. Project deployment In AWS Cloud Suing CICD Pipelines : 
 
 7. Deployment of ML application in Azure cloud Using github Actions : 
-
+### Models
 As we are predicting a countinous output,tested a variety of models, namely:
 
 * Linear Regression
@@ -306,6 +306,9 @@ X = preprocessor.fit_transform(X)
 
 ```
 ### Seperate Data into training and testing sets
+In the next code block we do two things, we firstly split our data into an X object which contains only the predictor variables, and a y object that contains only our dependent variable.
+
+Once we have done this, we split our data into training and test sets to ensure we can fairly validate the accuracy of the predictions on data that was not used in training. In this case, we have allocated 80% of the data for training, and the remaining 20% for test.
 
 ```python
 # separate dataset into train and test
@@ -413,6 +416,9 @@ Here we see which models performed best with respect to three metrics on the tes
 * CatBoosting Regressor= .85
 * AdaBoost Regressor= .85
 
+## Conclusion
+
+Based upon these, the chosen the model is the classic Linear Regression as it was the most consistently performant on the test set across classication RMSE, MAE, and R^2 metrics.
 
 
 
