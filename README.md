@@ -16,10 +16,6 @@
 
 # Project Overview  <a name="overview-main"></a>
 
-### Context <a name="overview-context"></a>
-
-This project understands how the student's performance (test scores) is affected by other variables such as Gender, Ethnicity, Parental level of education, Lunch and Test preparation course.
-
 ### Actions <a name="overview-actions"></a>
 
 1. Data Ingestion : 
